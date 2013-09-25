@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.iOS.BarcodeSample/Xamarin_iOS_BarcodeSampleViewController.cs">
+    <Files>
+      <File FileName="Xamarin.iOS.BarcodeSample/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Xamarin.iOS.BarcodeSample/Xamarin_iOS_BarcodeSampleViewController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Xamarin.iOS.BarcodeSample" expanded="True">
+            <Node name="Xamarin_iOS_BarcodeSampleViewController.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
